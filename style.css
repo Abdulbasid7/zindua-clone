@@ -1,0 +1,100 @@
+.miss-zindua { 
+    height: 800px; 
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    float: right;
+    padding-top: 20pxl;
+}
+.navbar {
+    padding: 0;
+    margin: 0;
+    
+}
+.navbar {
+    background-color: white;
+    display: flex;
+    padding: 20px 10px;
+   color: #000;
+    align-items: center;
+    
+}
+
+.left-content span {
+    padding: 20px;
+    margin: 10px;
+    
+}
+.apply-button{
+    color: #fbf7f7;
+    background-color: red;
+    border: none;
+    padding: 10px 55px;
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    margin: 10px;
+    border-radius: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.explore-button{
+    color: red;
+    background-color: white;
+    border: red;
+    padding: 10px 55px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+
+}
+.beyond-code{
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 40px;
+    
+}
+.kenya-education{
+    color: rgb(8, 8, 8);
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 40px;
+    
+}
+.zindua-agreement{
+    color: #000;
+    font-size: large;
+    
+}
+.action-button{
+    display: flex;
+    align-items: center;
+}
+.apply{
+    color: white;
+    background-color: red;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+
